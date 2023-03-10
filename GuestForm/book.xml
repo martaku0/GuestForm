@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<guestbook>
+  <guest>
+    <name>123</name>
+    <email>123@123.pl</email>
+    <inscription>123</inscription>
+  </guest>
+</guestbook>
